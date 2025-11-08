@@ -1,3 +1,3 @@
-# pagina_personal_juan_velez
+# pagina personal - juan velez
 
 bienvenido a mi pagina personal
